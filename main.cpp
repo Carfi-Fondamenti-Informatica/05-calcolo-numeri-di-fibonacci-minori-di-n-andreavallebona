@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-   int n=0, primonumero=0, secondonumero=1;
+  int n=0, primonumero=0, secondonumero=1;
     cin >> n;
     int c=0;
     int i=2;
