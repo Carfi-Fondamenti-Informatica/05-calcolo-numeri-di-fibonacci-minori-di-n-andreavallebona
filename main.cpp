@@ -12,7 +12,6 @@ int main() {
         while(i++ <=n){
             c= primonumero+secondonumero;
             if(c<=n){
-                c= primonumero+secondonumero;
                 cout << c << endl;
                 primonumero= secondonumero;
                 secondonumero= c;
